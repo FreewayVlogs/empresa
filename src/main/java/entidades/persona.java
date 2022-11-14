@@ -5,7 +5,7 @@
 package entidades;
 
 /**
- *
+ * 
  * @author mauriciounate
  */
 public class Persona {
