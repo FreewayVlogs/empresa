@@ -54,6 +54,6 @@ public class Empleado {
         this.fechaIngreo = fechaIngreo;
     }
     
-    
+    //esto queda 
     
 }

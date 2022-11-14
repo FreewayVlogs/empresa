@@ -117,5 +117,5 @@ public class Persona {
         this.estado = estado;
     }
     
-    
+    //esto queda 
 }
