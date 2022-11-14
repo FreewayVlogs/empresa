@@ -8,11 +8,11 @@ package entidades;
  *
  * @author mauriciounate
  */
-public class persona {
+public class Persona {
     
     private String IdPersona, Pnombre, Snombre, Papellido, Sapellido,telefono, sexo, fechaNacimiento,tipoDoc, NumDoc, estado;
 
-    public persona(String IdPersona, String Pnombre, String Snombre, String Papellido, String Sapellido, String telefono, String sexo, String fechaNacimiento, String tipoDoc, String NumDoc, String estado) {
+    public Persona(String IdPersona, String Pnombre, String Snombre, String Papellido, String Sapellido, String telefono, String sexo, String fechaNacimiento, String tipoDoc, String NumDoc, String estado) {
         this.IdPersona = IdPersona;
         this.Pnombre = Pnombre;
         this.Snombre = Snombre;
@@ -26,7 +26,7 @@ public class persona {
         this.estado = estado;
     }
 
-    public persona() {
+    public Persona() {
     }
 
     public String getIdPersona() {
